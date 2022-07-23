@@ -44,17 +44,17 @@
     <loc>https://add1609.github.io/codespace/de/categories/mathematik/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://add1609.github.io/codespace/de/math/</loc>
+    <loc>https://add1609.github.io/codespace/de/categories/mathematik/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://add1609.github.io/codespace/math/"
+                href="https://add1609.github.io/codespace/categories/mathematics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://add1609.github.io/codespace/de/math/"
+                href="https://add1609.github.io/codespace/de/categories/mathematik/"
                 />
   </url><url>
     <loc>https://add1609.github.io/codespace/de/misc/ahmedinator/</loc>
@@ -70,21 +70,21 @@
                 href="https://add1609.github.io/codespace/de/misc/ahmedinator/"
                 />
   </url><url>
-    <loc>https://add1609.github.io/codespace/de/misc/</loc>
+    <loc>https://add1609.github.io/codespace/de/categories/sonstiges/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://add1609.github.io/codespace/de/categories/sonstiges/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://add1609.github.io/codespace/misc/"
+                href="https://add1609.github.io/codespace/categories/misc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://add1609.github.io/codespace/de/misc/"
+                href="https://add1609.github.io/codespace/de/categories/sonstiges/"
                 />
-  </url><url>
-    <loc>https://add1609.github.io/codespace/de/categories/sonstiges/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://add1609.github.io/codespace/de/archives/</loc>
     <xhtml:link
