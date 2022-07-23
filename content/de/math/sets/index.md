@@ -3,7 +3,7 @@ draft: true
 date: 2022-07-23
 author: "Ahmed Sami"
 title: "Grundlagen der Mengenlehre"
-categories: [ "Mathe" ]
+categories: [ "Mathematik" ]
 summary: "Lerne die Grundlagen der Mengenlehre kennen."
 ---
 

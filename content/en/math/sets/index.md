@@ -3,7 +3,7 @@ draft: true
 date: 2022-07-23
 author: "Ahmed Sami"
 title: "Basics of Set theory"
-categories: [ "Maths" ]
+categories: [ "Mathematics" ]
 summary: "Learn the basics of set theory."
 ---
 
