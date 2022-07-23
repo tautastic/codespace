@@ -28,6 +28,19 @@
                 href="https://add1609.github.io/codespace/de/posts/ahmedinator/"
                 />
   </url><url>
+    <loc>https://add1609.github.io/codespace/de/categories/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://add1609.github.io/codespace/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://add1609.github.io/codespace/de/categories/"
+                />
+  </url><url>
     <loc>https://add1609.github.io/codespace/de/posts/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -41,6 +54,9 @@
                 href="https://add1609.github.io/codespace/de/posts/"
                 />
   </url><url>
+    <loc>https://add1609.github.io/codespace/de/categories/sonstiges/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://add1609.github.io/codespace/de/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,18 +67,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://add1609.github.io/codespace/de/archives/"
-                />
-  </url><url>
-    <loc>https://add1609.github.io/codespace/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://add1609.github.io/codespace/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://add1609.github.io/codespace/de/categories/"
                 />
   </url><url>
     <loc>https://add1609.github.io/codespace/de/search/</loc>
