@@ -56,7 +56,7 @@ math: true
 |   $\\Xi$    |      $\\xi$       |   Xi    |
 |     $O$     |        $o$        | Omikron |
 |   $\\Pi$    |      $\\pi$       |   Pi    |
-|   $\\Rho$   |      $\\rho$      |   Rho   |
+|   $\\Rho$   | $\\rho, \\varrho$ |   Rho   |
 |  $\\Sigma$  |     $\\sigma$     |  Sigma  |
 |   $\\Tau$   |      $\\tau$      |   Tau   |
 | $\\Upsilon$ |    $\\upsilon$    | Upsilon |
@@ -112,17 +112,17 @@ math: true
 |         $\\notin$          |     Elementzeichen     |       (ist) nicht Element von       |                $7 \notin B$                |
 |          $\\cap$           |  geschnitten; Schnitt  |        In $A$ **und** in $B$        |          $A \\cap B = \\{3,9\\}$           |
 |          $\\cup$           | vereinigt; Vereinigung |       In $A$ **oder** in $B$        |        $A \\cup B = \\{2,3,7,9\\}$         |
-|             \              |    ohne; Differenz     |     In $A$ **und nicht** in $B$     |            $A$ \ $B = \\{7\\}$             |
+|             \              |    ohne; Differenz     |     In $A$ **und nicht** in $B$     |         $A \\setminus B = \\{7\\}$         |
 
 ## Aussagensymbole
 
-|       Symbol       |          Bedeutung           |                             Beispiel                             |
-|:------------------:|:----------------------------:|:----------------------------------------------------------------:|
-|      $\\land$      |             und              | $A \\cap B := \\{x\\,\vert\\,x \\in A \\,\\land\\, x \\in B\\}$  |
-|      $\\lor$       |             oder             |  $A \\cup B := \\{x\\,\vert\\,x \\in A \\,\\lor\\, x \\in B\\}$  |
-|     $\\veebar$     |        entweder oder         |         $A \\triangle B := (A \\cup B)$ \ $(A \\cap B)$          |
-|      $\\lnot$      |            nicht             |               $x \\notin A \\iff \\lnot(x \\in A)$               |
-| $\\Longrightarrow$ | wenn ... dann; aus ... folgt |            $x \\in A$ \ $B \\Longrightarrow x \\in A$            |
-|     $\\forall$     | für alle ... gilt; jede(r,s) |              $\\forall x \\in A : x \\in A \\cup B$              |
-|     $\\exist$      |           es gibt            |              $\\exist x \\in A : x \\in A \\cap B$               |
-|     $\\exist!$     |    es gibt nur eine(r,s)     |               $\\exist! x \\in A : x \\in A$ \ $B$               |
+|       Symbol       |          Bedeutung           |                            Beispiel                             |
+|:------------------:|:----------------------------:|:---------------------------------------------------------------:|
+|      $\\land$      |             und              | $A \\cap B := \\{x\\,\vert\\,x \\in A \\,\\land\\, x \\in B\\}$ |
+|      $\\lor$       |             oder             | $A \\cup B := \\{x\\,\vert\\,x \\in A \\,\\lor\\, x \\in B\\}$  |
+|     $\\veebar$     |        entweder oder         |     $A \\triangle B := (A \\cup B) \\setminus (A \\cap B)$      |
+|      $\\lnot$      |            nicht             |              $x \\notin A \\iff \\lnot(x \\in A)$               |
+| $\\Longrightarrow$ | wenn ... dann; aus ... folgt |        $x \\in A \\setminus B \\Longrightarrow x \\in A$        |
+|     $\\forall$     | für alle ... gilt; jede(r,s) |             $\\forall x \\in A : x \\in A \\cup B$              |
+|     $\\exist$      |           es gibt            |              $\\exist x \\in A : x \\in A \\cap B$              |
+|     $\\exist!$     |    es gibt nur eine(r,s)     |           $\\exist! x \\in A : x \\in A \\setminus B$           |
