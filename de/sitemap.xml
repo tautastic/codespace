@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://add1609.github.io/codespace/de/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,21 +15,11 @@
                 href="https://add1609.github.io/codespace/de/"
                 />
   </url><url>
-    <loc>https://add1609.github.io/codespace/de/posts/ahmedinator/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://add1609.github.io/codespace/posts/ahmedinator/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://add1609.github.io/codespace/de/posts/ahmedinator/"
-                />
+    <loc>https://add1609.github.io/codespace/de/math/sets/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://add1609.github.io/codespace/de/categories/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,18 +31,17 @@
                 href="https://add1609.github.io/codespace/de/categories/"
                 />
   </url><url>
-    <loc>https://add1609.github.io/codespace/de/posts/</loc>
+    <loc>https://add1609.github.io/codespace/de/categories/mathe/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://add1609.github.io/codespace/de/math/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://add1609.github.io/codespace/de/ahmed/ahmedinator/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://add1609.github.io/codespace/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://add1609.github.io/codespace/de/posts/"
-                />
+  </url><url>
+    <loc>https://add1609.github.io/codespace/de/ahmed/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://add1609.github.io/codespace/de/categories/sonstiges/</loc>
     <lastmod>2022-07-22T00:00:00+00:00</lastmod>
