@@ -5,13 +5,22 @@
     <link>https://add1609.github.io/codespace/</link>
     <description>Recent content on Ahmed&#39;s CodeSpace</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://add1609.github.io/codespace/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://add1609.github.io/codespace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics of Set theory</title>
+      <link>https://add1609.github.io/codespace/math/sets/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://add1609.github.io/codespace/math/sets/</guid>
+      <description>Learn the basics of set theory.</description>
+    </item>
+    
     <item>
       <title>The Ahmedinator</title>
-      <link>https://add1609.github.io/codespace/posts/ahmedinator/</link>
+      <link>https://add1609.github.io/codespace/ahmed/ahmedinator/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://add1609.github.io/codespace/posts/ahmedinator/</guid>
+      <guid>https://add1609.github.io/codespace/ahmed/ahmedinator/</guid>
       <description>Facts about &lt;code&gt;Ahmed Sami&lt;/code&gt;, a.k.a The Ahmedinator.</description>
     </item>
     
