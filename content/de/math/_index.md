@@ -1,3 +1,3 @@
 ---
-title: "Mathe"
+title: "Mathematik"
 ---
