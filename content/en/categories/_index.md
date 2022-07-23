@@ -1,3 +1,4 @@
 ---
 title: "Categories"
+url: "/categories/"
 ---
