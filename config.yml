@@ -37,7 +37,7 @@ params:
   mainSections:
     - math
     - code
-    - ahmed
+    - misc
 
   fuseOpts:
     isCaseSensitive: false
