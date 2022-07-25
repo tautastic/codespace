@@ -83,35 +83,6 @@
                 href="https://add1609.github.io/codespace/categories/mathematics/"
                 />
   </url><url>
-    <loc>https://add1609.github.io/codespace/categories/misc/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://add1609.github.io/codespace/categories/misc/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://add1609.github.io/codespace/de/categories/sonstiges/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://add1609.github.io/codespace/categories/misc/"
-                />
-  </url><url>
-    <loc>https://add1609.github.io/codespace/misc/ahmedinator/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://add1609.github.io/codespace/de/misc/ahmedinator/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://add1609.github.io/codespace/misc/ahmedinator/"
-                />
-  </url><url>
     <loc>https://add1609.github.io/codespace/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -122,6 +93,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://add1609.github.io/codespace/archives/"
+                />
+  </url><url>
+    <loc>https://add1609.github.io/codespace/categories/misc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://add1609.github.io/codespace/de/categories/sonstiges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://add1609.github.io/codespace/categories/misc/"
                 />
   </url><url>
     <loc>https://add1609.github.io/codespace/search/</loc>
