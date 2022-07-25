@@ -82,7 +82,7 @@ sInput.onkeyup = function (e) {
             // build our html if result exists
             let resultSet = ''; // our results bucket
             //console.log(results);
-            for (let i = 0; i < results.length; i+=2) {
+            for (let i = 0; i < results.length; i++) {
                 resultSet += `<li class="post-entry"><header class="entry-header">${results[i].item.title}&nbsp;»</header>` +
                     `<a href="${results[i].item.permalink}" aria-label="${results[i].item.title}"></a></li>`
             }
