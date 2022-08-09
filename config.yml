@@ -1,5 +1,4 @@
 baseURL: "https://add1609.github.io/codespace/"
-paginate: 5
 theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
