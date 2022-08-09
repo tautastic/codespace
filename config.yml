@@ -94,7 +94,7 @@ languages:
       Content: >
         Welcome to Ahmed's CodeSpace.
 
-        - **[Ahmed](misc/ahmedinator/)** is said to be the world's smartest person. 🧐
+        - On this page I share what I know about various **[topics](categories/)**.
     socialIcons:
       - name: github
         url: "https://github.com/add1609"
@@ -127,7 +127,7 @@ languages:
       Content: >
         Willkommen zu Ahmeds CodeSpace.
 
-        - Man munkelt **[Ahmed](misc/ahmedinator/)** sei mit **[Billy aus Stranger Things](misc/ahmedinator/)** verwandt. 🧐
+        - Auf dieser Seite teile ich mein Wissen zu verschiedenen **[Themen](categories/)**.
     socialIcons:
       - name: github
         url: "https://github.com/add1609"
