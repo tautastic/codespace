@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://add1609.github.io/codespace/de/math/symbols/01/</loc>
+    <loc>https://add1609.github.io/codespace/de/categories/math/symbols/01/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://add1609.github.io/codespace/math/symbols/01/"
+                href="https://add1609.github.io/codespace/categories/math/symbols/01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://add1609.github.io/codespace/de/math/symbols/01/"
+                href="https://add1609.github.io/codespace/de/categories/math/symbols/01/"
                 />
   </url><url>
-    <loc>https://add1609.github.io/codespace/de/math/symbols/02/</loc>
+    <loc>https://add1609.github.io/codespace/de/categories/math/symbols/02/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://add1609.github.io/codespace/math/symbols/02/"
+                href="https://add1609.github.io/codespace/categories/math/symbols/02/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://add1609.github.io/codespace/de/math/symbols/02/"
+                href="https://add1609.github.io/codespace/de/categories/math/symbols/02/"
                 />
   </url><url>
     <loc>https://add1609.github.io/codespace/de/</loc>
@@ -41,17 +41,17 @@
                 href="https://add1609.github.io/codespace/de/"
                 />
   </url><url>
-    <loc>https://add1609.github.io/codespace/de/math/sets/01/</loc>
+    <loc>https://add1609.github.io/codespace/de/categories/math/sets/01/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://add1609.github.io/codespace/math/sets/01/"
+                href="https://add1609.github.io/codespace/categories/math/sets/01/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://add1609.github.io/codespace/de/math/sets/01/"
+                href="https://add1609.github.io/codespace/de/categories/math/sets/01/"
                 />
   </url><url>
     <loc>https://add1609.github.io/codespace/de/categories/</loc>
@@ -67,20 +67,43 @@
                 href="https://add1609.github.io/codespace/de/categories/"
                 />
   </url><url>
-    <loc>https://add1609.github.io/codespace/de/categories/mathematik/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://add1609.github.io/codespace/de/categories/mathematik/</loc>
+    <loc>https://add1609.github.io/codespace/de/categories/math/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://add1609.github.io/codespace/categories/mathematics/"
+                href="https://add1609.github.io/codespace/categories/math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://add1609.github.io/codespace/de/categories/mathematik/"
+                href="https://add1609.github.io/codespace/de/categories/math/"
+                />
+  </url><url>
+    <loc>https://add1609.github.io/codespace/de/categories/math/sets/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://add1609.github.io/codespace/categories/math/sets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://add1609.github.io/codespace/de/categories/math/sets/"
+                />
+  </url><url>
+    <loc>https://add1609.github.io/codespace/de/categories/math/symbols/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://add1609.github.io/codespace/categories/math/symbols/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://add1609.github.io/codespace/de/categories/math/symbols/"
                 />
   </url><url>
     <loc>https://add1609.github.io/codespace/de/archives/</loc>
@@ -93,18 +116,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://add1609.github.io/codespace/de/archives/"
-                />
-  </url><url>
-    <loc>https://add1609.github.io/codespace/de/categories/sonstiges/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://add1609.github.io/codespace/categories/misc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://add1609.github.io/codespace/de/categories/sonstiges/"
                 />
   </url><url>
     <loc>https://add1609.github.io/codespace/de/search/</loc>
