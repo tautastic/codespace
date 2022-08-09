@@ -34,9 +34,7 @@ params:
   tocopen: false
 
   mainSections:
-    - math
-    - code
-    - misc
+    - categories
 
   fuseOpts:
     isCaseSensitive: false
@@ -59,7 +57,6 @@ params:
 outputs:
   home:
     - HTML
-    - RSS
     - JSON
 
 defaultContentLang: en
@@ -73,7 +70,6 @@ languages:
     weight: 1
     taxonomies:
       tag: tags
-      category: categories
     menu:
       main:
         - name: Search
@@ -106,7 +102,6 @@ languages:
     weight: 2
     taxonomies:
       tag: tags
-      category: categories
     menu:
       main:
         - name: Suchen

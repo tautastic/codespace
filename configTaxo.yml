@@ -3,4 +3,3 @@ enableInlineShortcodes: true
 
 taxonomies:
   tag: tags
-  category: categories
