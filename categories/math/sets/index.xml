@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Set Theory on Ahmed&#39;s CodeSpace</title>
-    <link>https://add1609.github.io/codespace/categories/math/sets/</link>
+    <link>https://tautastic.github.io/codespace/categories/math/sets/</link>
     <description>Recent content in Set Theory on Ahmed&#39;s CodeSpace</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://add1609.github.io/codespace/categories/math/sets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tautastic.github.io/codespace/categories/math/sets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basics of Set theory</title>
-      <link>https://add1609.github.io/codespace/categories/math/sets/01/</link>
+      <link>https://tautastic.github.io/codespace/categories/math/sets/01/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://add1609.github.io/codespace/categories/math/sets/01/</guid>
+      <guid>https://tautastic.github.io/codespace/categories/math/sets/01/</guid>
       <description>Learn the basics of set theory.</description>
     </item>
     
