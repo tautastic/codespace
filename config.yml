@@ -1,4 +1,4 @@
-baseURL: "https://add1609.github.io/codespace/"
+baseURL: "https://tautastic.github.io/codespace/"
 theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -92,7 +92,7 @@ languages:
         - On this page I share what I know about various **[topics](categories/)**.
     socialIcons:
       - name: github
-        url: "https://github.com/add1609"
+        url: "https://github.com/tautastic"
 
   de:
     contentDir: content/de
@@ -124,7 +124,7 @@ languages:
         - Auf dieser Seite teile ich mein Wissen zu verschiedenen **[Themen](categories/)**.
     socialIcons:
       - name: github
-        url: "https://github.com/add1609"
+        url: "https://github.com/tautastic"
 
 
 markup:
