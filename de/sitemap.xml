@@ -28,8 +28,21 @@
                 href="https://tautastic.github.io/codespace/de/categories/math/symbols/02/"
                 />
   </url><url>
+    <loc>https://tautastic.github.io/codespace/de/categories/math/alg/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tautastic.github.io/codespace/categories/math/alg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tautastic.github.io/codespace/de/categories/math/alg/"
+                />
+  </url><url>
     <loc>https://tautastic.github.io/codespace/de/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +52,45 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://tautastic.github.io/codespace/de/"
+                />
+  </url><url>
+    <loc>https://tautastic.github.io/codespace/de/categories/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tautastic.github.io/codespace/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tautastic.github.io/codespace/de/categories/"
+                />
+  </url><url>
+    <loc>https://tautastic.github.io/codespace/de/categories/math/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tautastic.github.io/codespace/categories/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tautastic.github.io/codespace/de/categories/math/"
+                />
+  </url><url>
+    <loc>https://tautastic.github.io/codespace/de/categories/math/alg/01/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tautastic.github.io/codespace/categories/math/alg/01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tautastic.github.io/codespace/de/categories/math/alg/01/"
                 />
   </url><url>
     <loc>https://tautastic.github.io/codespace/de/categories/math/sets/01/</loc>
@@ -52,32 +104,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://tautastic.github.io/codespace/de/categories/math/sets/01/"
-                />
-  </url><url>
-    <loc>https://tautastic.github.io/codespace/de/categories/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tautastic.github.io/codespace/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://tautastic.github.io/codespace/de/categories/"
-                />
-  </url><url>
-    <loc>https://tautastic.github.io/codespace/de/categories/math/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tautastic.github.io/codespace/categories/math/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://tautastic.github.io/codespace/de/categories/math/"
                 />
   </url><url>
     <loc>https://tautastic.github.io/codespace/de/categories/math/sets/</loc>
